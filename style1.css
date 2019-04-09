@@ -1,0 +1,120 @@
+body {
+    margin: 0 ;
+    padding: 0 ;
+    background-color: rgb(211, 18, 18);
+}
+.container {
+    width: 1366px;
+    height: 900px;
+    background-color: #f0e3e3;
+    margin: 20px auto;
+}
+.header {
+    width: 1366px ;
+    height: 60px ;
+    background-color:red ;
+    border-bottom: solid 20px red;
+}
+.h1 {
+    margin: 10px;
+    float: left;
+    width: 200px;
+    height: 50px;
+    background-color: white;
+}
+.h2 {
+    margin: 10px;
+    float: right;
+    width: 100px;
+    height: 50px;
+    background-color: white;
+}
+.h3 {
+    margin: 10px;
+    float: right;
+    width: 100px;
+    height: 50px;
+    background-color: white;
+}
+h4 {
+    margin: 10px;
+    float: left;
+    width: 100px;
+    height: 50px;
+    background-color: white;
+}
+h5 {
+    margin: 10px;
+    float: right;
+    width: 100px;
+    height: 50px;
+    background-color: white;
+}
+h6 {
+    margin: 10px;
+    float: left;
+    width: 100px;
+    height: 50px;
+    background-color: white;
+}
+
+.content {display:table;}
+.left-sidebar {
+    margin: 10px;
+    float: left;
+    width: 800px;
+    height: 400px;
+    background-color: gray;
+}
+.right-sidebar {
+    margin: 10px;
+    float:left;
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+}
+.p {
+    margin: 10px;
+    float: left;
+    width: 400px;
+    height: 20px;
+    background-color: gray;
+}
+.p {
+    margin: 10px;
+    float: left;
+    width: 400px;
+    height: 20px;
+    background-color: gray;
+}
+
+.post {
+    margin: 10px;
+    padding: 10px;
+    float: right;
+    width: 400px;
+    height: 200px;
+    background-color:rgb(114, 104, 104);
+}
+.post {
+    margin: 10px;
+    padding: 10px;
+    float: right;
+    width: 400px;
+    height: 200px;
+    background-color:gray;
+}
+.post {
+    margin: 10px;
+    padding: 10px;
+    float: left;
+    width: 400px;
+    height: 200px;
+    background-color:gray;
+}
+.footer {
+    margin: 5px;
+    width: 1366px;
+    height: 80px;
+    background-color: brown;
+}
